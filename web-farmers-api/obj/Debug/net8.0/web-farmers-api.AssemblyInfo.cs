@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("web-farmers-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b959cc5cea7e72a29b92c1641aa1e51059748c4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b1b8b178e086f014ec962fc5ac7a7a49a9a1ff9")]
 [assembly: System.Reflection.AssemblyProductAttribute("web-farmers-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("web-farmers-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
