@@ -1,12 +1,71 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Theodoulos\\Desktop\\web-farmers-api\\web-farmers-api\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Theodoulos\\Projects\\web-farmers-api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{747BFF73-E0AA-4670-8E84-D1EBE3A1142A}|web-farmers-api\\web-farmers-api.csproj|c:\\users\\theodoulos\\projects\\web-farmers-api\\web-farmers-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747BFF73-E0AA-4670-8E84-D1EBE3A1142A}|web-farmers-api\\web-farmers-api.csproj|solutionrelative:web-farmers-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747BFF73-E0AA-4670-8E84-D1EBE3A1142A}|web-farmers-api\\web-farmers-api.csproj|c:\\users\\theodoulos\\projects\\web-farmers-api\\web-farmers-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{747BFF73-E0AA-4670-8E84-D1EBE3A1142A}|web-farmers-api\\web-farmers-api.csproj|solutionrelative:web-farmers-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747BFF73-E0AA-4670-8E84-D1EBE3A1142A}|web-farmers-api\\web-farmers-api.csproj|c:\\users\\theodoulos\\projects\\web-farmers-api\\web-farmers-api\\data\\projectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747BFF73-E0AA-4670-8E84-D1EBE3A1142A}|web-farmers-api\\web-farmers-api.csproj|solutionrelative:web-farmers-api\\data\\projectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Theodoulos\\Projects\\web-farmers-api\\web-farmers-api\\Program.cs",
+              "RelativeDocumentMoniker": "web-farmers-api\\Program.cs",
+              "ToolTip": "C:\\Users\\Theodoulos\\Projects\\web-farmers-api\\web-farmers-api\\Program.cs",
+              "RelativeToolTip": "web-farmers-api\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T20:34:04.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Theodoulos\\Projects\\web-farmers-api\\web-farmers-api\\appsettings.json",
+              "RelativeDocumentMoniker": "web-farmers-api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Theodoulos\\Projects\\web-farmers-api\\web-farmers-api\\appsettings.json",
+              "RelativeToolTip": "web-farmers-api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-28T20:34:02.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjectDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Theodoulos\\Projects\\web-farmers-api\\web-farmers-api\\Data\\ProjectDbContext.cs",
+              "RelativeDocumentMoniker": "web-farmers-api\\Data\\ProjectDbContext.cs",
+              "ToolTip": "C:\\Users\\Theodoulos\\Projects\\web-farmers-api\\web-farmers-api\\Data\\ProjectDbContext.cs",
+              "RelativeToolTip": "web-farmers-api\\Data\\ProjectDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T20:23:10.567Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
