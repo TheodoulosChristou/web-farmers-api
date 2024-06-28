@@ -24,4 +24,20 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Application\DTOs\" />
+    <Folder Include="Application\Handlers\Commands\" />
+    <Folder Include="Application\Handlers\Queries\" />
+    <Folder Include="Application\Interface\DTOs\" />
+    <Folder Include="Application\Interface\Validators\" />
+    <Folder Include="Application\Interface\UnitOfWork\" />
+    <Folder Include="Application\Mapping\" />
+    <Folder Include="Application\Requests\Commands\" />
+    <Folder Include="Application\Requests\Queries\" />
+    <Folder Include="Application\Validators\" />
+    <Folder Include="Domain\Entities\" />
+    <Folder Include="Infrastructure\ProjectDbContext\Configurations\" />
+    <Folder Include="Infrastructure\Repositories\UnitOfWork\" />
+  </ItemGroup>
+
 </Project>
