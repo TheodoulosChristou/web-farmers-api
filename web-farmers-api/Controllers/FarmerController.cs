@@ -33,5 +33,14 @@ namespace web_farmers_api.Controllers
             var response = await _mediator.Send(request);
             return Ok(response);
         }
+
+
+        [HttpDelete("DeleteFarmer")]
+        public async Task<ActionResult<BaseCommandResponse>> DeleteFarmer([FromBody] FarmerDto DeleteFarmer)
+        {
+            var request = new DeleteFarmerCommand { DeleteFarmer = DeleteFarmer };
+            var response = await _mediator.Send(request);
+            return Ok(response);
+        }
     }
 }
