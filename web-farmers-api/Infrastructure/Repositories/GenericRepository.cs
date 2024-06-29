@@ -2,8 +2,7 @@
 using web_farmers_api.Application.Interface.Repositories;
 using web_farmers_api.Infrastructure.Data;
 
-namespace web_farmers_api.Infrastructure.Repositories
-{
+
     public class GenericRepository<T> : IGenericRepository<T> where T : class
     {
 
@@ -39,4 +38,4 @@ namespace web_farmers_api.Infrastructure.Repositories
             await _dbContext.SaveChangesAsync();
         }
     }
-}
+

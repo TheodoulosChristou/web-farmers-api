@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Theodoulos\\Projects\\web-farmers-api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{747BFF73-E0AA-4670-8E84-D1EBE3A1142A}|web-farmers-api\\web-farmers-api.csproj|c:\\users\\theodoulos\\projects\\web-farmers-api\\web-farmers-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{747BFF73-E0AA-4670-8E84-D1EBE3A1142A}|web-farmers-api\\web-farmers-api.csproj|solutionrelative:web-farmers-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{747BFF73-E0AA-4670-8E84-D1EBE3A1142A}|web-farmers-api\\web-farmers-api.csproj|c:\\users\\theodoulos\\projects\\web-farmers-api\\web-farmers-api\\application\\handlers\\commands\\farmer\\updatefarmerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747BFF73-E0AA-4670-8E84-D1EBE3A1142A}|web-farmers-api\\web-farmers-api.csproj|solutionrelative:web-farmers-api\\application\\handlers\\commands\\farmer\\updatefarmerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747BFF73-E0AA-4670-8E84-D1EBE3A1142A}|web-farmers-api\\web-farmers-api.csproj|c:\\users\\theodoulos\\projects\\web-farmers-api\\web-farmers-api\\application\\requests\\commands\\farmer\\updatefarmercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747BFF73-E0AA-4670-8E84-D1EBE3A1142A}|web-farmers-api\\web-farmers-api.csproj|solutionrelative:web-farmers-api\\application\\requests\\commands\\farmer\\updatefarmercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747BFF73-E0AA-4670-8E84-D1EBE3A1142A}|web-farmers-api\\web-farmers-api.csproj|c:\\users\\theodoulos\\projects\\web-farmers-api\\web-farmers-api\\controllers\\farmercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747BFF73-E0AA-4670-8E84-D1EBE3A1142A}|web-farmers-api\\web-farmers-api.csproj|solutionrelative:web-farmers-api\\controllers\\farmercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747BFF73-E0AA-4670-8E84-D1EBE3A1142A}|web-farmers-api\\web-farmers-api.csproj|c:\\users\\theodoulos\\projects\\web-farmers-api\\web-farmers-api\\application\\handlers\\commands\\farmer\\createfarmerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747BFF73-E0AA-4670-8E84-D1EBE3A1142A}|web-farmers-api\\web-farmers-api.csproj|solutionrelative:web-farmers-api\\application\\handlers\\commands\\farmer\\createfarmerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Theodoulos\\Projects\\web-farmers-api\\web-farmers-api\\Program.cs",
-              "RelativeDocumentMoniker": "web-farmers-api\\Program.cs",
-              "ToolTip": "C:\\Users\\Theodoulos\\Projects\\web-farmers-api\\web-farmers-api\\Program.cs",
-              "RelativeToolTip": "web-farmers-api\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA5AAAA",
+              "Title": "UpdateFarmerHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Theodoulos\\Projects\\web-farmers-api\\web-farmers-api\\Application\\Handlers\\Commands\\Farmer\\UpdateFarmerHandler.cs",
+              "RelativeDocumentMoniker": "web-farmers-api\\Application\\Handlers\\Commands\\Farmer\\UpdateFarmerHandler.cs",
+              "ToolTip": "C:\\Users\\Theodoulos\\Projects\\web-farmers-api\\web-farmers-api\\Application\\Handlers\\Commands\\Farmer\\UpdateFarmerHandler.cs",
+              "RelativeToolTip": "web-farmers-api\\Application\\Handlers\\Commands\\Farmer\\UpdateFarmerHandler.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBYAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T21:14:09.559Z",
+              "WhenOpened": "2024-06-29T17:54:27.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateFarmerCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Theodoulos\\Projects\\web-farmers-api\\web-farmers-api\\Application\\Requests\\Commands\\Farmer\\UpdateFarmerCommand.cs",
+              "RelativeDocumentMoniker": "web-farmers-api\\Application\\Requests\\Commands\\Farmer\\UpdateFarmerCommand.cs",
+              "ToolTip": "C:\\Users\\Theodoulos\\Projects\\web-farmers-api\\web-farmers-api\\Application\\Requests\\Commands\\Farmer\\UpdateFarmerCommand.cs",
+              "RelativeToolTip": "web-farmers-api\\Application\\Requests\\Commands\\Farmer\\UpdateFarmerCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T17:53:47.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateFarmerHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Theodoulos\\Projects\\web-farmers-api\\web-farmers-api\\Application\\Handlers\\Commands\\Farmer\\CreateFarmerHandler.cs",
+              "RelativeDocumentMoniker": "web-farmers-api\\Application\\Handlers\\Commands\\Farmer\\CreateFarmerHandler.cs",
+              "ToolTip": "C:\\Users\\Theodoulos\\Projects\\web-farmers-api\\web-farmers-api\\Application\\Handlers\\Commands\\Farmer\\CreateFarmerHandler.cs",
+              "RelativeToolTip": "web-farmers-api\\Application\\Handlers\\Commands\\Farmer\\CreateFarmerHandler.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAewCoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T17:49:19.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FarmerController.cs",
+              "DocumentMoniker": "C:\\Users\\Theodoulos\\Projects\\web-farmers-api\\web-farmers-api\\Controllers\\FarmerController.cs",
+              "RelativeDocumentMoniker": "web-farmers-api\\Controllers\\FarmerController.cs",
+              "ToolTip": "C:\\Users\\Theodoulos\\Projects\\web-farmers-api\\web-farmers-api\\Controllers\\FarmerController.cs",
+              "RelativeToolTip": "web-farmers-api\\Controllers\\FarmerController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAYwB8AAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T17:47:11.832Z",
               "EditorCaption": ""
             }
           ]

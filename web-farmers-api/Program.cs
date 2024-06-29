@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using web_farmers_api.Application.Interface.Repositories;
 using web_farmers_api.Infrastructure.Data;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -10,6 +11,9 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddAutoMapper(typeof(Program).Assembly);
+builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
+builder.Services.AddScoped<IFarmerRepository, FarmerRepository>();
+
 
 builder.Services.AddMediatR(configuration =>
 {
