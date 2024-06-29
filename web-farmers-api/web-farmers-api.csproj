@@ -27,9 +27,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Application\Handlers\Queries\" />
     <Folder Include="Application\Interface\UnitOfWork\" />
-    <Folder Include="Application\Requests\Queries\" />
     <Folder Include="Infrastructure\Repositories\UnitOfWork\" />
   </ItemGroup>
 
