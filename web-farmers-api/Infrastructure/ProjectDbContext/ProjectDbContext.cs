@@ -13,9 +13,12 @@ namespace web_farmers_api.Infrastructure.Data
 
         public DbSet<Farmer> Farmer {  get; set; }
 
+        public DbSet<Farm> Farm { get; set; }
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.ApplyConfiguration(new FarmerConfiguration());
+            modelBuilder.ApplyConfiguration(new FarmConfiguration());
         }
     }
 }
